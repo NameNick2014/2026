@@ -1,0 +1,1 @@
+import{_ as r}from"./SurpriseBox-Cxbw7jR4.js";import{r as a,b as s,o as t}from"./index-BR4GRxJX.js";const f={__name:"MashaBirthDay2025View",setup(n){const e=a(["...","З Днем народження!","Щастя, здоров'я!","Поменше проблем!","І побільше радостей!"]);return(o,c)=>(t(),s(r,{greetings:e.value,background:"purple",line:"#7fff00"},null,8,["greetings"]))}};export{f as default};

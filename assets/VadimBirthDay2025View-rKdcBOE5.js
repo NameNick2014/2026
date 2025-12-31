@@ -1,0 +1,1 @@
+import{_ as r}from"./SurpriseBox-Cxbw7jR4.js";import{r as a,b as n,o as t}from"./index-BR4GRxJX.js";const p={__name:"VadimBirthDay2025View",setup(s){const e=a(["...","З Днем народження!","Щастя, здоров'я!","З найкращими побажаннями!","Та радості в житті"]);return(o,i)=>(t(),n(r,{greetings:e.value,background:"purple",line:"pink"},null,8,["greetings"]))}};export{p as default};
